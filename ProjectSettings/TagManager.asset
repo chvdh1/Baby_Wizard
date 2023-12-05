@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - plbullet
+  - coin
+  - plboll
+  - enemybullet
+  - wall
+  - enemycountck
+  - getitempoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - enemy
+  - Water
+  - UI
+  - t
+  - b
+  - l
+  - r
+  - pl
+  - plbullet
+  - dotdmg
+  - coin
+  - enemycount
+  - enemybullet
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1620494289
+    locked: 0
+  - name: UI1
+    uniqueID: 1245286623
+    locked: 0
+  - name: UI2
+    uniqueID: 2706718951
+    locked: 0
